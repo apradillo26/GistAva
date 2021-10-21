@@ -6,7 +6,7 @@ public class MAIN {
         Scanner sc = new Scanner(System.in);
         System.out.println("prueba_tag");
 
-        System.out.println("cambios desde develop2");
+        System.out.println("cambios desde develop2, mas");
 
     }
 }
